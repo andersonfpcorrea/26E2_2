@@ -1,0 +1,2499 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d1" for="node" attr.name="mentions" attr.type="long" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="US">
+      <data key="d0">GPE</data>
+      <data key="d1">1497</data>
+    </node>
+    <node id="UK">
+      <data key="d0">GPE</data>
+      <data key="d1">1037</data>
+    </node>
+    <node id="England">
+      <data key="d0">GPE</data>
+      <data key="d1">546</data>
+    </node>
+    <node id="Labour">
+      <data key="d0">ORG</data>
+      <data key="d1">532</data>
+    </node>
+    <node id="British">
+      <data key="d0">NORP</data>
+      <data key="d1">440</data>
+    </node>
+    <node id="Britain">
+      <data key="d0">GPE</data>
+      <data key="d1">408</data>
+    </node>
+    <node id="London">
+      <data key="d0">GPE</data>
+      <data key="d1">372</data>
+    </node>
+    <node id="Europe">
+      <data key="d0">LOC</data>
+      <data key="d1">362</data>
+    </node>
+    <node id="Mr Blair">
+      <data key="d0">PERSON</data>
+      <data key="d1">357</data>
+    </node>
+    <node id="France">
+      <data key="d0">GPE</data>
+      <data key="d1">331</data>
+    </node>
+    <node id="European">
+      <data key="d0">NORP</data>
+      <data key="d1">316</data>
+    </node>
+    <node id="Russian">
+      <data key="d0">NORP</data>
+      <data key="d1">301</data>
+    </node>
+    <node id="India">
+      <data key="d0">GPE</data>
+      <data key="d1">298</data>
+    </node>
+    <node id="BBC">
+      <data key="d0">ORG</data>
+      <data key="d1">292</data>
+    </node>
+    <node id="EU">
+      <data key="d0">ORG</data>
+      <data key="d1">283</data>
+    </node>
+    <node id="China">
+      <data key="d0">GPE</data>
+      <data key="d1">282</data>
+    </node>
+    <node id="Brown">
+      <data key="d0">PERSON</data>
+      <data key="d1">278</data>
+    </node>
+    <node id="Germany">
+      <data key="d0">GPE</data>
+      <data key="d1">276</data>
+    </node>
+    <node id="Ireland">
+      <data key="d0">GPE</data>
+      <data key="d1">274</data>
+    </node>
+    <node id="Wales">
+      <data key="d0">GPE</data>
+      <data key="d1">265</data>
+    </node>
+    <node id="Microsoft">
+      <data key="d0">ORG</data>
+      <data key="d1">264</data>
+    </node>
+    <node id="2003">
+      <data key="d0">EVENT</data>
+      <data key="d1">263</data>
+    </node>
+    <node id="Scotland">
+      <data key="d0">GPE</data>
+      <data key="d1">239</data>
+    </node>
+    <node id="Tories">
+      <data key="d0">NORP</data>
+      <data key="d1">225</data>
+    </node>
+    <node id="American">
+      <data key="d0">NORP</data>
+      <data key="d1">221</data>
+    </node>
+    <node id="Australia">
+      <data key="d0">GPE</data>
+      <data key="d1">218</data>
+    </node>
+    <node id="Japan">
+      <data key="d0">GPE</data>
+      <data key="d1">205</data>
+    </node>
+    <node id="Tory">
+      <data key="d0">NORP</data>
+      <data key="d1">196</data>
+    </node>
+    <node id="Yukos">
+      <data key="d0">PERSON</data>
+      <data key="d1">195</data>
+    </node>
+    <node id="Howard">
+      <data key="d0">PERSON</data>
+      <data key="d1">186</data>
+    </node>
+    <node id="Tony Blair">
+      <data key="d0">PERSON</data>
+      <data key="d1">185</data>
+    </node>
+    <node id="Apple">
+      <data key="d0">ORG</data>
+      <data key="d1">175</data>
+    </node>
+    <node id="Chelsea">
+      <data key="d0">ORG</data>
+      <data key="d1">169</data>
+    </node>
+    <node id="Sony">
+      <data key="d0">ORG</data>
+      <data key="d1">169</data>
+    </node>
+    <node id="French">
+      <data key="d0">NORP</data>
+      <data key="d1">167</data>
+    </node>
+    <node id="Italy">
+      <data key="d0">GPE</data>
+      <data key="d1">167</data>
+    </node>
+    <node id="BBC News">
+      <data key="d0">ORG</data>
+      <data key="d1">161</data>
+    </node>
+    <node id="Iraq">
+      <data key="d0">GPE</data>
+      <data key="d1">161</data>
+    </node>
+    <node id="Liverpool">
+      <data key="d0">GPE</data>
+      <data key="d1">159</data>
+    </node>
+    <node id="Conservatives">
+      <data key="d0">NORP</data>
+      <data key="d1">157</data>
+    </node>
+    <node id="Asian">
+      <data key="d0">NORP</data>
+      <data key="d1">153</data>
+    </node>
+    <node id="Oscar">
+      <data key="d0">PERSON</data>
+      <data key="d1">143</data>
+    </node>
+    <node id="New York">
+      <data key="d0">GPE</data>
+      <data key="d1">131</data>
+    </node>
+    <node id="Michael Howard">
+      <data key="d0">PERSON</data>
+      <data key="d1">130</data>
+    </node>
+    <node id="Irish">
+      <data key="d0">NORP</data>
+      <data key="d1">124</data>
+    </node>
+    <node id="Hollywood">
+      <data key="d0">GPE</data>
+      <data key="d1">122</data>
+    </node>
+    <node id="BT">
+      <data key="d0">GPE</data>
+      <data key="d1">120</data>
+    </node>
+    <node id="UKIP">
+      <data key="d0">ORG</data>
+      <data key="d1">120</data>
+    </node>
+    <node id="Christmas">
+      <data key="d0">ORG</data>
+      <data key="d1">119</data>
+    </node>
+    <node id="Gordon Brown">
+      <data key="d0">PERSON</data>
+      <data key="d1">113</data>
+    </node>
+    <node id="Democrat">
+      <data key="d0">NORP</data>
+      <data key="d1">111</data>
+    </node>
+    <node id="Spain">
+      <data key="d0">GPE</data>
+      <data key="d1">110</data>
+    </node>
+    <node id="Google">
+      <data key="d0">ORG</data>
+      <data key="d1">109</data>
+    </node>
+    <node id="Six Nations">
+      <data key="d0">ORG</data>
+      <data key="d1">106</data>
+    </node>
+    <node id="Africa">
+      <data key="d0">LOC</data>
+      <data key="d1">104</data>
+    </node>
+    <edge source="US" target="Germany">
+      <data key="d2">52</data>
+    </edge>
+    <edge source="US" target="Google">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="US" target="China">
+      <data key="d2">47</data>
+    </edge>
+    <edge source="US" target="European">
+      <data key="d2">73</data>
+    </edge>
+    <edge source="US" target="London">
+      <data key="d2">58</data>
+    </edge>
+    <edge source="US" target="New York">
+      <data key="d2">65</data>
+    </edge>
+    <edge source="US" target="Russian">
+      <data key="d2">45</data>
+    </edge>
+    <edge source="US" target="Yukos">
+      <data key="d2">22</data>
+    </edge>
+    <edge source="US" target="France">
+      <data key="d2">30</data>
+    </edge>
+    <edge source="US" target="French">
+      <data key="d2">33</data>
+    </edge>
+    <edge source="US" target="Scotland">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="US" target="UK">
+      <data key="d2">159</data>
+    </edge>
+    <edge source="US" target="Gordon Brown">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="US" target="India">
+      <data key="d2">27</data>
+    </edge>
+    <edge source="US" target="Brown">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="US" target="Japan">
+      <data key="d2">55</data>
+    </edge>
+    <edge source="US" target="American">
+      <data key="d2">105</data>
+    </edge>
+    <edge source="US" target="Democrat">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="US" target="Europe">
+      <data key="d2">109</data>
+    </edge>
+    <edge source="US" target="Asian">
+      <data key="d2">42</data>
+    </edge>
+    <edge source="US" target="BBC">
+      <data key="d2">42</data>
+    </edge>
+    <edge source="US" target="Italy">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="US" target="Iraq">
+      <data key="d2">20</data>
+    </edge>
+    <edge source="US" target="Africa">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="US" target="EU">
+      <data key="d2">29</data>
+    </edge>
+    <edge source="US" target="Ireland">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="US" target="Britain">
+      <data key="d2">42</data>
+    </edge>
+    <edge source="US" target="BBC News">
+      <data key="d2">52</data>
+    </edge>
+    <edge source="US" target="Australia">
+      <data key="d2">31</data>
+    </edge>
+    <edge source="US" target="Irish">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="US" target="British">
+      <data key="d2">66</data>
+    </edge>
+    <edge source="US" target="England">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="US" target="Tony Blair">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="US" target="Howard">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="US" target="Spain">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="US" target="Microsoft">
+      <data key="d2">31</data>
+    </edge>
+    <edge source="US" target="Mr Blair">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="US" target="Hollywood">
+      <data key="d2">28</data>
+    </edge>
+    <edge source="US" target="Oscar">
+      <data key="d2">24</data>
+    </edge>
+    <edge source="US" target="Sony">
+      <data key="d2">33</data>
+    </edge>
+    <edge source="US" target="Michael Howard">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="US" target="Tory">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="US" target="Tories">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="US" target="Conservatives">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="US" target="Labour">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="US" target="Apple">
+      <data key="d2">22</data>
+    </edge>
+    <edge source="US" target="BT">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="UK" target="France">
+      <data key="d2">36</data>
+    </edge>
+    <edge source="UK" target="French">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="UK" target="London">
+      <data key="d2">114</data>
+    </edge>
+    <edge source="UK" target="Scotland">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="UK" target="China">
+      <data key="d2">22</data>
+    </edge>
+    <edge source="UK" target="Gordon Brown">
+      <data key="d2">38</data>
+    </edge>
+    <edge source="UK" target="India">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="UK" target="Russian">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="UK" target="Hollywood">
+      <data key="d2">26</data>
+    </edge>
+    <edge source="UK" target="British">
+      <data key="d2">116</data>
+    </edge>
+    <edge source="UK" target="BBC News">
+      <data key="d2">60</data>
+    </edge>
+    <edge source="UK" target="American">
+      <data key="d2">32</data>
+    </edge>
+    <edge source="UK" target="BBC">
+      <data key="d2">50</data>
+    </edge>
+    <edge source="UK" target="European">
+      <data key="d2">70</data>
+    </edge>
+    <edge source="UK" target="Chelsea">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="UK" target="England">
+      <data key="d2">28</data>
+    </edge>
+    <edge source="UK" target="Ireland">
+      <data key="d2">20</data>
+    </edge>
+    <edge source="UK" target="Germany">
+      <data key="d2">46</data>
+    </edge>
+    <edge source="UK" target="Spain">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="UK" target="Australia">
+      <data key="d2">20</data>
+    </edge>
+    <edge source="UK" target="Italy">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="UK" target="Japan">
+      <data key="d2">33</data>
+    </edge>
+    <edge source="UK" target="Asian">
+      <data key="d2">30</data>
+    </edge>
+    <edge source="UK" target="Britain">
+      <data key="d2">116</data>
+    </edge>
+    <edge source="UK" target="Europe">
+      <data key="d2">91</data>
+    </edge>
+    <edge source="UK" target="Irish">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="UK" target="Brown">
+      <data key="d2">32</data>
+    </edge>
+    <edge source="UK" target="Conservatives">
+      <data key="d2">30</data>
+    </edge>
+    <edge source="UK" target="EU">
+      <data key="d2">33</data>
+    </edge>
+    <edge source="UK" target="New York">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="UK" target="Africa">
+      <data key="d2">25</data>
+    </edge>
+    <edge source="UK" target="Wales">
+      <data key="d2">20</data>
+    </edge>
+    <edge source="UK" target="BT">
+      <data key="d2">21</data>
+    </edge>
+    <edge source="UK" target="Iraq">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="UK" target="Microsoft">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="UK" target="Mr Blair">
+      <data key="d2">41</data>
+    </edge>
+    <edge source="UK" target="Tony Blair">
+      <data key="d2">52</data>
+    </edge>
+    <edge source="UK" target="Oscar">
+      <data key="d2">18</data>
+    </edge>
+    <edge source="UK" target="Howard">
+      <data key="d2">20</data>
+    </edge>
+    <edge source="UK" target="Sony">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="UK" target="Democrat">
+      <data key="d2">40</data>
+    </edge>
+    <edge source="UK" target="Labour">
+      <data key="d2">48</data>
+    </edge>
+    <edge source="UK" target="Liverpool">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="UK" target="Michael Howard">
+      <data key="d2">31</data>
+    </edge>
+    <edge source="UK" target="Tories">
+      <data key="d2">39</data>
+    </edge>
+    <edge source="UK" target="Tory">
+      <data key="d2">38</data>
+    </edge>
+    <edge source="UK" target="UKIP">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="UK" target="Apple">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="UK" target="Google">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="England" target="Chelsea">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="England" target="Ireland">
+      <data key="d2">56</data>
+    </edge>
+    <edge source="England" target="Britain">
+      <data key="d2">23</data>
+    </edge>
+    <edge source="England" target="EU">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="England" target="Europe">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="England" target="European">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="England" target="France">
+      <data key="d2">60</data>
+    </edge>
+    <edge source="England" target="Germany">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="England" target="Russian">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="England" target="Scotland">
+      <data key="d2">56</data>
+    </edge>
+    <edge source="England" target="Wales">
+      <data key="d2">91</data>
+    </edge>
+    <edge source="England" target="London">
+      <data key="d2">22</data>
+    </edge>
+    <edge source="England" target="British">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="England" target="Hollywood">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="England" target="Irish">
+      <data key="d2">23</data>
+    </edge>
+    <edge source="England" target="BBC">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="England" target="Australia">
+      <data key="d2">27</data>
+    </edge>
+    <edge source="England" target="BBC News">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="England" target="Michael Howard">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="England" target="Tony Blair">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="England" target="Tories">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="England" target="Tory">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="England" target="Labour">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="England" target="Iraq">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="England" target="Conservatives">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="England" target="Democrat">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="England" target="Mr Blair">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="England" target="Howard">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="England" target="Asian">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="England" target="Brown">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="England" target="Gordon Brown">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="England" target="Italy">
+      <data key="d2">24</data>
+    </edge>
+    <edge source="England" target="Liverpool">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="England" target="Spain">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="England" target="French">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="England" target="Six Nations">
+      <data key="d2">41</data>
+    </edge>
+    <edge source="England" target="2003">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Labour" target="BBC">
+      <data key="d2">35</data>
+    </edge>
+    <edge source="Labour" target="Britain">
+      <data key="d2">79</data>
+    </edge>
+    <edge source="Labour" target="Brown">
+      <data key="d2">40</data>
+    </edge>
+    <edge source="Labour" target="Gordon Brown">
+      <data key="d2">54</data>
+    </edge>
+    <edge source="Labour" target="Tony Blair">
+      <data key="d2">92</data>
+    </edge>
+    <edge source="Labour" target="British">
+      <data key="d2">33</data>
+    </edge>
+    <edge source="Labour" target="BBC News">
+      <data key="d2">21</data>
+    </edge>
+    <edge source="Labour" target="Conservatives">
+      <data key="d2">72</data>
+    </edge>
+    <edge source="Labour" target="Democrat">
+      <data key="d2">58</data>
+    </edge>
+    <edge source="Labour" target="Liverpool">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Labour" target="Michael Howard">
+      <data key="d2">70</data>
+    </edge>
+    <edge source="Labour" target="Mr Blair">
+      <data key="d2">69</data>
+    </edge>
+    <edge source="Labour" target="Scotland">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Labour" target="Tories">
+      <data key="d2">88</data>
+    </edge>
+    <edge source="Labour" target="Tory">
+      <data key="d2">83</data>
+    </edge>
+    <edge source="Labour" target="Wales">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Labour" target="European">
+      <data key="d2">16</data>
+    </edge>
+    <edge source="Labour" target="Howard">
+      <data key="d2">39</data>
+    </edge>
+    <edge source="Labour" target="London">
+      <data key="d2">31</data>
+    </edge>
+    <edge source="Labour" target="Iraq">
+      <data key="d2">26</data>
+    </edge>
+    <edge source="Labour" target="EU">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Labour" target="Germany">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Labour" target="Asian">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="Labour" target="Africa">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Labour" target="Europe">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Labour" target="Australia">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Labour" target="UKIP">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="British" target="India">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="British" target="Asian">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="British" target="Australia">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="British" target="Europe">
+      <data key="d2">36</data>
+    </edge>
+    <edge source="British" target="London">
+      <data key="d2">61</data>
+    </edge>
+    <edge source="British" target="Scotland">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="British" target="Japan">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="British" target="Britain">
+      <data key="d2">79</data>
+    </edge>
+    <edge source="British" target="China">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="British" target="European">
+      <data key="d2">45</data>
+    </edge>
+    <edge source="British" target="Spain">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="British" target="Germany">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="British" target="Italy">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="British" target="American">
+      <data key="d2">27</data>
+    </edge>
+    <edge source="British" target="Hollywood">
+      <data key="d2">27</data>
+    </edge>
+    <edge source="British" target="New York">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="British" target="Russian">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="British" target="BBC News">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="British" target="BBC">
+      <data key="d2">27</data>
+    </edge>
+    <edge source="British" target="Irish">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="British" target="Oscar">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="British" target="French">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="British" target="Iraq">
+      <data key="d2">16</data>
+    </edge>
+    <edge source="British" target="Africa">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="British" target="Mr Blair">
+      <data key="d2">25</data>
+    </edge>
+    <edge source="British" target="Tony Blair">
+      <data key="d2">35</data>
+    </edge>
+    <edge source="British" target="Ireland">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="British" target="Wales">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="British" target="Liverpool">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="British" target="Brown">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="British" target="France">
+      <data key="d2">18</data>
+    </edge>
+    <edge source="British" target="Gordon Brown">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="British" target="Conservatives">
+      <data key="d2">18</data>
+    </edge>
+    <edge source="British" target="Democrat">
+      <data key="d2">24</data>
+    </edge>
+    <edge source="British" target="Howard">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="British" target="Michael Howard">
+      <data key="d2">18</data>
+    </edge>
+    <edge source="British" target="Tory">
+      <data key="d2">16</data>
+    </edge>
+    <edge source="British" target="EU">
+      <data key="d2">16</data>
+    </edge>
+    <edge source="British" target="Tories">
+      <data key="d2">20</data>
+    </edge>
+    <edge source="British" target="UKIP">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="British" target="Six Nations">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="British" target="Sony">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Britain" target="BBC">
+      <data key="d2">37</data>
+    </edge>
+    <edge source="Britain" target="Brown">
+      <data key="d2">43</data>
+    </edge>
+    <edge source="Britain" target="China">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Britain" target="Gordon Brown">
+      <data key="d2">46</data>
+    </edge>
+    <edge source="Britain" target="Tony Blair">
+      <data key="d2">64</data>
+    </edge>
+    <edge source="Britain" target="Europe">
+      <data key="d2">39</data>
+    </edge>
+    <edge source="Britain" target="European">
+      <data key="d2">35</data>
+    </edge>
+    <edge source="Britain" target="Germany">
+      <data key="d2">23</data>
+    </edge>
+    <edge source="Britain" target="French">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Britain" target="EU">
+      <data key="d2">23</data>
+    </edge>
+    <edge source="Britain" target="France">
+      <data key="d2">23</data>
+    </edge>
+    <edge source="Britain" target="India">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Britain" target="Russian">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Britain" target="Scotland">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="Britain" target="Japan">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Britain" target="London">
+      <data key="d2">38</data>
+    </edge>
+    <edge source="Britain" target="New York">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Britain" target="American">
+      <data key="d2">16</data>
+    </edge>
+    <edge source="Britain" target="Hollywood">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Britain" target="Australia">
+      <data key="d2">21</data>
+    </edge>
+    <edge source="Britain" target="BBC News">
+      <data key="d2">30</data>
+    </edge>
+    <edge source="Britain" target="Asian">
+      <data key="d2">18</data>
+    </edge>
+    <edge source="Britain" target="Italy">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Britain" target="Spain">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Britain" target="Conservatives">
+      <data key="d2">36</data>
+    </edge>
+    <edge source="Britain" target="Democrat">
+      <data key="d2">41</data>
+    </edge>
+    <edge source="Britain" target="Liverpool">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Britain" target="Michael Howard">
+      <data key="d2">38</data>
+    </edge>
+    <edge source="Britain" target="Mr Blair">
+      <data key="d2">54</data>
+    </edge>
+    <edge source="Britain" target="Tories">
+      <data key="d2">43</data>
+    </edge>
+    <edge source="Britain" target="Tory">
+      <data key="d2">43</data>
+    </edge>
+    <edge source="Britain" target="Wales">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Britain" target="Africa">
+      <data key="d2">16</data>
+    </edge>
+    <edge source="Britain" target="Iraq">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="Britain" target="Howard">
+      <data key="d2">20</data>
+    </edge>
+    <edge source="Britain" target="UKIP">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Britain" target="Ireland">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Britain" target="BT">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="London" target="China">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="London" target="European">
+      <data key="d2">31</data>
+    </edge>
+    <edge source="London" target="New York">
+      <data key="d2">24</data>
+    </edge>
+    <edge source="London" target="France">
+      <data key="d2">16</data>
+    </edge>
+    <edge source="London" target="French">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="London" target="Scotland">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="London" target="Gordon Brown">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="London" target="India">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="London" target="Russian">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="London" target="Asian">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="London" target="Australia">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="London" target="Africa">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="London" target="EU">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="London" target="Germany">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="London" target="Europe">
+      <data key="d2">35</data>
+    </edge>
+    <edge source="London" target="American">
+      <data key="d2">20</data>
+    </edge>
+    <edge source="London" target="Japan">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="London" target="BBC">
+      <data key="d2">29</data>
+    </edge>
+    <edge source="London" target="Brown">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="London" target="Democrat">
+      <data key="d2">22</data>
+    </edge>
+    <edge source="London" target="Iraq">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="London" target="Spain">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="London" target="Wales">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="London" target="BBC News">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="London" target="Irish">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="London" target="Italy">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="London" target="Hollywood">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="London" target="Oscar">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="London" target="Ireland">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="London" target="Conservatives">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="London" target="Howard">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="London" target="Michael Howard">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="London" target="Mr Blair">
+      <data key="d2">18</data>
+    </edge>
+    <edge source="London" target="Tony Blair">
+      <data key="d2">30</data>
+    </edge>
+    <edge source="London" target="Tory">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="London" target="Tories">
+      <data key="d2">18</data>
+    </edge>
+    <edge source="London" target="Liverpool">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="London" target="UKIP">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="London" target="Chelsea">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="London" target="BT">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="London" target="Sony">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Europe" target="Italy">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="Europe" target="India">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="Europe" target="Germany">
+      <data key="d2">44</data>
+    </edge>
+    <edge source="Europe" target="BBC">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="Europe" target="China">
+      <data key="d2">18</data>
+    </edge>
+    <edge source="Europe" target="Japan">
+      <data key="d2">34</data>
+    </edge>
+    <edge source="Europe" target="European">
+      <data key="d2">83</data>
+    </edge>
+    <edge source="Europe" target="Africa">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Europe" target="Asian">
+      <data key="d2">21</data>
+    </edge>
+    <edge source="Europe" target="French">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="Europe" target="American">
+      <data key="d2">26</data>
+    </edge>
+    <edge source="Europe" target="EU">
+      <data key="d2">35</data>
+    </edge>
+    <edge source="Europe" target="France">
+      <data key="d2">33</data>
+    </edge>
+    <edge source="Europe" target="New York">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Europe" target="Ireland">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="Europe" target="Australia">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Europe" target="BBC News">
+      <data key="d2">21</data>
+    </edge>
+    <edge source="Europe" target="Russian">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="Europe" target="Scotland">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Europe" target="Brown">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Europe" target="Gordon Brown">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Europe" target="Microsoft">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="Europe" target="Sony">
+      <data key="d2">28</data>
+    </edge>
+    <edge source="Europe" target="Hollywood">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Europe" target="Oscar">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Europe" target="Mr Blair">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Europe" target="Tony Blair">
+      <data key="d2">20</data>
+    </edge>
+    <edge source="Europe" target="Spain">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Europe" target="Michael Howard">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Europe" target="Iraq">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Europe" target="Tories">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="Europe" target="Tory">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Europe" target="Democrat">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Europe" target="UKIP">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Europe" target="Conservatives">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Europe" target="Wales">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Europe" target="Liverpool">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Europe" target="Chelsea">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Europe" target="Six Nations">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Europe" target="Apple">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="Europe" target="BT">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Mr Blair" target="French">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mr Blair" target="Germany">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Mr Blair" target="Gordon Brown">
+      <data key="d2">43</data>
+    </edge>
+    <edge source="Mr Blair" target="Iraq">
+      <data key="d2">18</data>
+    </edge>
+    <edge source="Mr Blair" target="Tony Blair">
+      <data key="d2">99</data>
+    </edge>
+    <edge source="Mr Blair" target="Africa">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="Mr Blair" target="American">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Mr Blair" target="Asian">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="Mr Blair" target="European">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Mr Blair" target="BBC News">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="Mr Blair" target="Conservatives">
+      <data key="d2">37</data>
+    </edge>
+    <edge source="Mr Blair" target="Democrat">
+      <data key="d2">30</data>
+    </edge>
+    <edge source="Mr Blair" target="Liverpool">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Mr Blair" target="Michael Howard">
+      <data key="d2">50</data>
+    </edge>
+    <edge source="Mr Blair" target="Scotland">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mr Blair" target="Tories">
+      <data key="d2">40</data>
+    </edge>
+    <edge source="Mr Blair" target="Tory">
+      <data key="d2">52</data>
+    </edge>
+    <edge source="Mr Blair" target="Wales">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Mr Blair" target="Howard">
+      <data key="d2">28</data>
+    </edge>
+    <edge source="Mr Blair" target="Brown">
+      <data key="d2">36</data>
+    </edge>
+    <edge source="Mr Blair" target="EU">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Mr Blair" target="France">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mr Blair" target="Australia">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mr Blair" target="BBC">
+      <data key="d2">16</data>
+    </edge>
+    <edge source="France" target="French">
+      <data key="d2">44</data>
+    </edge>
+    <edge source="France" target="Scotland">
+      <data key="d2">47</data>
+    </edge>
+    <edge source="France" target="China">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="France" target="Italy">
+      <data key="d2">37</data>
+    </edge>
+    <edge source="France" target="Japan">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="France" target="Germany">
+      <data key="d2">30</data>
+    </edge>
+    <edge source="France" target="Spain">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="France" target="Africa">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="France" target="EU">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="France" target="European">
+      <data key="d2">31</data>
+    </edge>
+    <edge source="France" target="American">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="France" target="Australia">
+      <data key="d2">28</data>
+    </edge>
+    <edge source="France" target="India">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="France" target="Russian">
+      <data key="d2">21</data>
+    </edge>
+    <edge source="France" target="Sony">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="France" target="Asian">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="France" target="Oscar">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="France" target="Hollywood">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="France" target="Ireland">
+      <data key="d2">52</data>
+    </edge>
+    <edge source="France" target="Irish">
+      <data key="d2">18</data>
+    </edge>
+    <edge source="France" target="Tony Blair">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="France" target="Wales">
+      <data key="d2">43</data>
+    </edge>
+    <edge source="France" target="Chelsea">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="France" target="Liverpool">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="France" target="Six Nations">
+      <data key="d2">29</data>
+    </edge>
+    <edge source="France" target="2003">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="France" target="BT">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="European" target="China">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="European" target="New York">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="European" target="French">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="European" target="Japan">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="European" target="EU">
+      <data key="d2">37</data>
+    </edge>
+    <edge source="European" target="Ireland">
+      <data key="d2">18</data>
+    </edge>
+    <edge source="European" target="Irish">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="European" target="American">
+      <data key="d2">25</data>
+    </edge>
+    <edge source="European" target="BBC">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="European" target="Africa">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="European" target="Asian">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="European" target="Italy">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="European" target="Germany">
+      <data key="d2">39</data>
+    </edge>
+    <edge source="European" target="India">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="European" target="Russian">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="European" target="BBC News">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="European" target="Scotland">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="European" target="Brown">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="European" target="Gordon Brown">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="European" target="Australia">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="European" target="Spain">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="European" target="Iraq">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="European" target="Tony Blair">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="European" target="Hollywood">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="European" target="Michael Howard">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="European" target="Tories">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="European" target="Tory">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="European" target="Conservatives">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="European" target="Democrat">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="European" target="Wales">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="European" target="Howard">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="European" target="UKIP">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="European" target="Chelsea">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="European" target="Liverpool">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="European" target="Microsoft">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="European" target="Sony">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="European" target="Apple">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Russian" target="Yukos">
+      <data key="d2">27</data>
+    </edge>
+    <edge source="Russian" target="China">
+      <data key="d2">16</data>
+    </edge>
+    <edge source="Russian" target="India">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="Russian" target="Asian">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Russian" target="American">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="Russian" target="Germany">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Russian" target="BBC News">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Russian" target="Australia">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Russian" target="EU">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Russian" target="Scotland">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Russian" target="BBC">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Russian" target="Japan">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Russian" target="Iraq">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Russian" target="Italy">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Russian" target="French">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Russian" target="Spain">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="India" target="China">
+      <data key="d2">16</data>
+    </edge>
+    <edge source="India" target="Gordon Brown">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="India" target="BBC">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="India" target="Australia">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="India" target="Germany">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="India" target="Japan">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="India" target="Asian">
+      <data key="d2">20</data>
+    </edge>
+    <edge source="India" target="EU">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="India" target="Yukos">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="India" target="Africa">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="India" target="Ireland">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="India" target="American">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="India" target="Hollywood">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="India" target="Oscar">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="India" target="French">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="BBC" target="China">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="BBC" target="Germany">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="BBC" target="Japan">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="BBC" target="American">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="BBC" target="Brown">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="BBC" target="New York">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="BBC" target="Gordon Brown">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="BBC" target="Tony Blair">
+      <data key="d2">27</data>
+    </edge>
+    <edge source="BBC" target="French">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="BBC" target="Irish">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="BBC" target="Africa">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="BBC" target="Scotland">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="BBC" target="Iraq">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="BBC" target="BBC News">
+      <data key="d2">16</data>
+    </edge>
+    <edge source="BBC" target="Asian">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="BBC" target="Hollywood">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="BBC" target="Australia">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="BBC" target="Michael Howard">
+      <data key="d2">23</data>
+    </edge>
+    <edge source="BBC" target="Tories">
+      <data key="d2">20</data>
+    </edge>
+    <edge source="BBC" target="Tory">
+      <data key="d2">27</data>
+    </edge>
+    <edge source="BBC" target="Howard">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="BBC" target="Conservatives">
+      <data key="d2">22</data>
+    </edge>
+    <edge source="BBC" target="Democrat">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="BBC" target="Ireland">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="BBC" target="Wales">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="BBC" target="UKIP">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="BBC" target="Liverpool">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="BBC" target="Google">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="BBC" target="BT">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="BBC" target="Microsoft">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="BBC" target="Sony">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="EU" target="Africa">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="EU" target="Germany">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="EU" target="American">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="EU" target="Ireland">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="EU" target="China">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="EU" target="Howard">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="EU" target="Michael Howard">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="EU" target="Tony Blair">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="EU" target="Tories">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="EU" target="Tory">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="EU" target="French">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="EU" target="Australia">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="EU" target="Conservatives">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="EU" target="Democrat">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="EU" target="BBC News">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="EU" target="UKIP">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="EU" target="Brown">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="EU" target="Gordon Brown">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="China" target="New York">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="China" target="Gordon Brown">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="China" target="American">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="China" target="Asian">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="China" target="Yukos">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="China" target="Germany">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="China" target="Japan">
+      <data key="d2">18</data>
+    </edge>
+    <edge source="China" target="BBC News">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="China" target="Italy">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="China" target="Africa">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="China" target="French">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="China" target="Brown">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="China" target="Tony Blair">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="China" target="Australia">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="China" target="Iraq">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="China" target="Microsoft">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Brown" target="Gordon Brown">
+      <data key="d2">62</data>
+    </edge>
+    <edge source="Brown" target="Tony Blair">
+      <data key="d2">36</data>
+    </edge>
+    <edge source="Brown" target="Conservatives">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Brown" target="Asian">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Brown" target="Africa">
+      <data key="d2">18</data>
+    </edge>
+    <edge source="Brown" target="Scotland">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Brown" target="Howard">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Brown" target="BBC News">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Brown" target="Michael Howard">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="Brown" target="Democrat">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="Brown" target="Tories">
+      <data key="d2">22</data>
+    </edge>
+    <edge source="Brown" target="Tory">
+      <data key="d2">23</data>
+    </edge>
+    <edge source="Brown" target="Iraq">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Brown" target="Wales">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Germany" target="Japan">
+      <data key="d2">18</data>
+    </edge>
+    <edge source="Germany" target="American">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Germany" target="Asian">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Germany" target="Spain">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Germany" target="Italy">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="Germany" target="French">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="Germany" target="Australia">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Germany" target="BBC News">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Germany" target="Ireland">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Germany" target="Scotland">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Germany" target="New York">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Germany" target="Gordon Brown">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Germany" target="Iraq">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Germany" target="Microsoft">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Germany" target="Tony Blair">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Germany" target="Oscar">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Germany" target="Wales">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Germany" target="Michael Howard">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Germany" target="Tory">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Germany" target="Sony">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Ireland" target="Irish">
+      <data key="d2">37</data>
+    </edge>
+    <edge source="Ireland" target="Chelsea">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Ireland" target="American">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Ireland" target="Japan">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Ireland" target="Italy">
+      <data key="d2">28</data>
+    </edge>
+    <edge source="Ireland" target="Scotland">
+      <data key="d2">45</data>
+    </edge>
+    <edge source="Ireland" target="Wales">
+      <data key="d2">38</data>
+    </edge>
+    <edge source="Ireland" target="Australia">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="Ireland" target="French">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Ireland" target="Six Nations">
+      <data key="d2">31</data>
+    </edge>
+    <edge source="Ireland" target="2003">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Wales" target="Scotland">
+      <data key="d2">46</data>
+    </edge>
+    <edge source="Wales" target="Michael Howard">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Wales" target="Tony Blair">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Wales" target="Tories">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Wales" target="Tory">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Wales" target="BBC News">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Wales" target="Conservatives">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Wales" target="Democrat">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Wales" target="Iraq">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Wales" target="Howard">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Wales" target="Gordon Brown">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Wales" target="Australia">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Wales" target="Asian">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Wales" target="Six Nations">
+      <data key="d2">32</data>
+    </edge>
+    <edge source="Wales" target="Irish">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Wales" target="French">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Wales" target="Italy">
+      <data key="d2">23</data>
+    </edge>
+    <edge source="Microsoft" target="Sony">
+      <data key="d2">21</data>
+    </edge>
+    <edge source="Microsoft" target="Google">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="Microsoft" target="BBC News">
+      <data key="d2">20</data>
+    </edge>
+    <edge source="Microsoft" target="BT">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Microsoft" target="American">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Microsoft" target="Apple">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="Microsoft" target="Hollywood">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Microsoft" target="Japan">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Microsoft" target="New York">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Microsoft" target="Asian">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Scotland" target="French">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Scotland" target="Africa">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Scotland" target="Michael Howard">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Scotland" target="Tony Blair">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Scotland" target="Tories">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Scotland" target="Tory">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Scotland" target="BBC News">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Scotland" target="Conservatives">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Scotland" target="Democrat">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Scotland" target="Iraq">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Scotland" target="Italy">
+      <data key="d2">29</data>
+    </edge>
+    <edge source="Scotland" target="Six Nations">
+      <data key="d2">29</data>
+    </edge>
+    <edge source="Scotland" target="Irish">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Scotland" target="Australia">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="Tories" target="Conservatives">
+      <data key="d2">57</data>
+    </edge>
+    <edge source="Tories" target="Democrat">
+      <data key="d2">39</data>
+    </edge>
+    <edge source="Tories" target="Gordon Brown">
+      <data key="d2">30</data>
+    </edge>
+    <edge source="Tories" target="Tony Blair">
+      <data key="d2">51</data>
+    </edge>
+    <edge source="Tories" target="Michael Howard">
+      <data key="d2">58</data>
+    </edge>
+    <edge source="Tories" target="Tory">
+      <data key="d2">66</data>
+    </edge>
+    <edge source="Tories" target="BBC News">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="Tories" target="Liverpool">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Tories" target="Howard">
+      <data key="d2">37</data>
+    </edge>
+    <edge source="Tories" target="Asian">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Tories" target="Iraq">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Tories" target="Africa">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Tories" target="Australia">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Tories" target="American">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Tories" target="UKIP">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="American" target="Democrat">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="American" target="Asian">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="American" target="Japan">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="American" target="New York">
+      <data key="d2">18</data>
+    </edge>
+    <edge source="American" target="BBC News">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="American" target="Africa">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="American" target="Iraq">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="American" target="Australia">
+      <data key="d2">20</data>
+    </edge>
+    <edge source="American" target="French">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="American" target="Tony Blair">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="American" target="Hollywood">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="American" target="Irish">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="American" target="Oscar">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="American" target="Sony">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="American" target="Tory">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="American" target="Michael Howard">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="American" target="Spain">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="American" target="Apple">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Australia" target="French">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Australia" target="Japan">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Australia" target="Asian">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Australia" target="Sony">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Australia" target="New York">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Australia" target="Spain">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Australia" target="Africa">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Australia" target="Hollywood">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Australia" target="Italy">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Australia" target="Oscar">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Australia" target="BBC News">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Australia" target="Conservatives">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Australia" target="Democrat">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Australia" target="Howard">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Australia" target="Michael Howard">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Australia" target="Tony Blair">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Australia" target="Tory">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Australia" target="Irish">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Australia" target="Six Nations">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Japan" target="French">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Japan" target="Italy">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Japan" target="Asian">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Japan" target="Irish">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Japan" target="Gordon Brown">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Japan" target="New York">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Japan" target="BBC News">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Japan" target="Oscar">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Japan" target="Sony">
+      <data key="d2">23</data>
+    </edge>
+    <edge source="Japan" target="Apple">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Japan" target="Google">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Tory" target="Michael Howard">
+      <data key="d2">70</data>
+    </edge>
+    <edge source="Tory" target="Tony Blair">
+      <data key="d2">61</data>
+    </edge>
+    <edge source="Tory" target="BBC News">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="Tory" target="Conservatives">
+      <data key="d2">50</data>
+    </edge>
+    <edge source="Tory" target="Democrat">
+      <data key="d2">39</data>
+    </edge>
+    <edge source="Tory" target="Liverpool">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Tory" target="Howard">
+      <data key="d2">44</data>
+    </edge>
+    <edge source="Tory" target="Iraq">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="Tory" target="Gordon Brown">
+      <data key="d2">29</data>
+    </edge>
+    <edge source="Tory" target="Asian">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Tory" target="Africa">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Yukos" target="Asian">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Howard" target="Conservatives">
+      <data key="d2">32</data>
+    </edge>
+    <edge source="Howard" target="Democrat">
+      <data key="d2">21</data>
+    </edge>
+    <edge source="Howard" target="Michael Howard">
+      <data key="d2">52</data>
+    </edge>
+    <edge source="Howard" target="Tony Blair">
+      <data key="d2">27</data>
+    </edge>
+    <edge source="Howard" target="Iraq">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Howard" target="Gordon Brown">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Howard" target="BBC News">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Howard" target="Asian">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Tony Blair" target="Gordon Brown">
+      <data key="d2">45</data>
+    </edge>
+    <edge source="Tony Blair" target="French">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Tony Blair" target="Iraq">
+      <data key="d2">29</data>
+    </edge>
+    <edge source="Tony Blair" target="Africa">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="Tony Blair" target="Asian">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="Tony Blair" target="Conservatives">
+      <data key="d2">47</data>
+    </edge>
+    <edge source="Tony Blair" target="Democrat">
+      <data key="d2">41</data>
+    </edge>
+    <edge source="Tony Blair" target="Michael Howard">
+      <data key="d2">62</data>
+    </edge>
+    <edge source="Tony Blair" target="BBC News">
+      <data key="d2">22</data>
+    </edge>
+    <edge source="Tony Blair" target="Liverpool">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Apple" target="Sony">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="Apple" target="BBC News">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Apple" target="Google">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Chelsea" target="Liverpool">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="Chelsea" target="French">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Sony" target="Hollywood">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Sony" target="Oscar">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Sony" target="BBC News">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="French" target="Africa">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="French" target="Asian">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="French" target="Italy">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="French" target="Iraq">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="French" target="Spain">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="French" target="New York">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="French" target="Oscar">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="French" target="Hollywood">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="French" target="Irish">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="French" target="Liverpool">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="French" target="Six Nations">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Italy" target="New York">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Italy" target="Asian">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Italy" target="Spain">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Italy" target="Irish">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Italy" target="Six Nations">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="BBC News" target="Gordon Brown">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="BBC News" target="Hollywood">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="BBC News" target="Irish">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="BBC News" target="Conservatives">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="BBC News" target="Democrat">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="BBC News" target="Michael Howard">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="BBC News" target="UKIP">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="BBC News" target="Asian">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="BBC News" target="Iraq">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="BBC News" target="Africa">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="BBC News" target="BT">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="BBC News" target="Google">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Iraq" target="Democrat">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="Iraq" target="Africa">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Iraq" target="Asian">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Iraq" target="Gordon Brown">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Iraq" target="Michael Howard">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="Iraq" target="Conservatives">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="Iraq" target="Liverpool">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Liverpool" target="Conservatives">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Liverpool" target="Democrat">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Liverpool" target="Michael Howard">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Conservatives" target="Gordon Brown">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="Conservatives" target="Democrat">
+      <data key="d2">38</data>
+    </edge>
+    <edge source="Conservatives" target="Michael Howard">
+      <data key="d2">52</data>
+    </edge>
+    <edge source="Conservatives" target="Asian">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Asian" target="Africa">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="Asian" target="New York">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Asian" target="Gordon Brown">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Asian" target="Democrat">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Asian" target="Hollywood">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Asian" target="Michael Howard">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="Oscar" target="Hollywood">
+      <data key="d2">26</data>
+    </edge>
+    <edge source="Oscar" target="New York">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Oscar" target="Spain">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="New York" target="Democrat">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="New York" target="Africa">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="New York" target="Hollywood">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="New York" target="Irish">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Michael Howard" target="Democrat">
+      <data key="d2">40</data>
+    </edge>
+    <edge source="Michael Howard" target="Africa">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Michael Howard" target="Gordon Brown">
+      <data key="d2">22</data>
+    </edge>
+    <edge source="Irish" target="Hollywood">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Irish" target="Six Nations">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="UKIP" target="Democrat">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Gordon Brown" target="Africa">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="Gordon Brown" target="Democrat">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="Democrat" target="Africa">
+      <data key="d2">5</data>
+    </edge>
+  </graph>
+</graphml>

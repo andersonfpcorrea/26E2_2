@@ -1,0 +1,17 @@
+# Assignment prompt (not part of the deliverable)
+project-requirements.html
+
+# Python / uv environment
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# NLTK data (117 MB, re-created via scripts/setup_nltk.py)
+nltk_data/
+
+# Build logs (scratch)
+build/*.log
+
+# OS
+.DS_Store
